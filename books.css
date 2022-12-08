@@ -1,0 +1,220 @@
+body {
+    background: url(images/onepiece\ fon.jpg);
+    margin: 0;
+    padding: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.top-panel-wrapper{
+    background: tomato;
+    padding: 5px 5px 5px 0px;
+}
+.top-penel-text{
+    padding-left: 380px;
+    text-decoration: none;
+    color: white;
+
+}
+.content {
+    background: white;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding: 5px 5px 5px 5px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.header{
+    padding: 10px 5px 10px 5px;
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+}
+a:hover {
+    color: red;
+   }
+.link-menu-1{
+    text-decoration: none;
+    color: black;
+    padding-left: 10px;
+    margin-right: 90px;
+    font-size: 15pt;
+    
+}
+.link-menu-2{
+    text-decoration: none;
+    color: black;
+    margin-right: 90px;
+    font-size: 15pt;
+}
+.link-menu-3{
+    text-decoration: none;
+    color: black;
+    margin-right: 90px;
+    font-size: 15pt;
+}
+.link-menu-4{
+    text-decoration: none;
+    color: black;
+    margin-right: 90px;
+    font-size: 15pt;
+}
+.link-menu-5{
+    text-decoration: none;
+    color: black;
+    margin-right: 80px;
+    font-size: 15pt;
+}
+.link-menu-6{
+    text-decoration: none;
+    color: black;
+    margin-right: 80px;
+    font-size: 15pt;
+}
+.link-menu-7{
+    text-decoration: none;
+    color: black;
+    font-size: 15pt;
+}
+.main-contant{
+    background-color: white;
+    color: #303030;
+    padding-top: 1rem;
+    display: flex;
+}
+.left-content{
+    position: fixed;
+    float: left;
+    width: 200px;
+    margin: 10px 0px 0px 10px;
+    
+}
+.logo{
+    width: 200px;
+    height: 200px;
+    padding-bottom: 20px;
+}
+.catalog-title{
+    text-align: center;
+    margin: 0;
+    padding: 10px 0px 10px 0px;
+    font-size: 18pt;
+    color: white;
+    background-color: red;
+}
+.catalog-sidebar-ul{
+    margin: 0;
+    padding: 0;
+    background-color:lightgray;
+}
+.catalog-sidebar-ul li{
+    padding: 9px 0px 8px 0px;
+    text-align: center;
+    border-bottom: 2px solid gray;
+}
+.catalog-sidebar-ul li:hover{
+    background-color: gray;
+}
+.catalog-sidebar-ul a {
+    text-decoration: none;
+    color: black;
+    font-size: 15pt;
+}
+.left-content li{
+    list-style-type: none;
+}
+.article-preview-image{
+    width: 200px;
+    height: 200px;
+}
+.blog-title{
+    padding-top: 10px;
+}
+.blog-title a{
+    text-decoration: none;
+    font-size: 19pt;
+    color: black;
+}
+.blog-title a:hover{
+    color: red;
+}
+.blog-text a{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+.blog-text a:hover{
+    color: red;
+}
+.right-content{
+    margin-left: 225px;
+}
+.right-content h1{
+    margin: 0;
+    padding: 0;
+}
+.contact-wrapper{
+    width: 800px;
+}
+.books{
+    display: block;
+    align-items: center;
+}
+.single-book{
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+   display: flex;
+   
+}
+.single-book:hover{
+    box-shadow: 5px 5px 5px 5px lightgray;
+}
+.single-book img{
+    width: 250px;
+    height: 250px;
+}
+.single-book button {
+    width: 100px;
+    height: 50px;
+}
+
+
+
+.footer{
+    background-color: black;
+    padding-left: 320px;
+    display: flex;
+}
+.footer-1{
+    display: flex;
+}
+.footer-1-menu ul{
+    display: flex;
+    list-style-type: none;
+}
+.footer-1-menu li{
+    padding-right: 20px;
+    font-size: 15pt;
+}
+.footer-1-menu a{
+    text-decoration: none;
+    color: white;
+}
+.footer-1-menu a:hover{
+    color: red;
+}
+.footer-number{
+    padding-top: 16px;
+    display: flex;
+    padding-left: 30px;
+}
+.number{
+    font-size: 15pt;
+    color: white;
+    padding-left: 20px;
+    padding-right: 40px;
+}
+.footer-addres{
+    font-size: 13pt;
+    color: white;
+    padding-left: 20px;
+}

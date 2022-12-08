@@ -1,0 +1,29 @@
+{
+    "figuri": {
+        "1129231": {
+            "name": "Фигурка DOTA2 'Lina' ",
+            "cost": 25,
+            "description": "Высота 8 - 12 см",
+            "image": "images/f-1.jpg",
+            "num": "1"
+        },
+        "1129432": {
+            "name": "Фигурка Токийский гуль",
+            "cost": 80,
+            "description": "Высота 22 см",
+            "image": "images/f-2.jpg"
+        },
+        "1129533": {
+            "name": "Фигурка Nendroid 'Сайтама' (One Punch Man)",
+            "cost": 45,
+            "description": "Высота 10 см",
+            "image": "images/f-3.jpg"
+        },
+        "1129634": {
+            "name": "Фигурка Аниме Клинок рассекающий демонов Незуко Камадо",
+            "cost": 35,
+            "description": "Фигурка по знаменитому анмие Demon Slayer: Kimetsu no Yaiba Точная реплика 1/12",
+            "image": "images/f-4.jpg"
+        }
+    }
+}
